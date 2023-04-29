@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm Alexandra 👋
+
+🎓 I'm a Computer Science and Engineering Master's Student.
 
 <!--
 **Xanatc/Xanatc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
